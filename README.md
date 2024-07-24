@@ -1,4 +1,4 @@
-# StepsAI-NLP-Project
+# NLP-Textbook-Analysis
 
 # Textbook Content Retrieval and Question Answering System
 
